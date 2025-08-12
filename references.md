@@ -1,1 +1,1 @@
-This is a sample text.
+This is the updated sample text.
